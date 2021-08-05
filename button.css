@@ -1,0 +1,24 @@
+.btn-blue {
+	text-decoration: none;
+	background-color: rgba(230,230, 230, 0.3);
+	padding: 15px 20px ;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	border-top: 20px;
+  border-bottom:20px ;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-wrap: wrap; 
+  margin-bottom: 10px
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}

@@ -1,0 +1,11 @@
+.container {	
+  background-image:linear-gradient(-225deg,rgba(0,0,0,0.1)0%,rgba(0,0,0,0.2)50%),url("image/background.jpg");
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+
+.container h1,h2 {
+  color:white ;
+  flex: auto;
+}
